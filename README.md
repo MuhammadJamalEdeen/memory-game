@@ -4,7 +4,6 @@
 
 * How to play the game
 * Issues
-* Contributing
 
 ## How to play the game
 
@@ -26,9 +25,4 @@ every two cards comparison counts as a move and you get star rated according to 
  
  ## Issues
  
- when you open any two cards, wait until they get compared because if you tried to quickly open a third or more cards while they get compared a strange behaviour could occur...
- 
- 
-## Contributing
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+ when you open any two cards, wait until they get compared because if you tried to quickly open a third or more cards while they are getting compared a strange behaviour could occur.
